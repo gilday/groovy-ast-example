@@ -1,6 +1,6 @@
 # Groovy AST Test
 
-An example projec to get Groovy local AST Transformations working in Maven
+An example project to get Groovy local AST Transformations working in Maven
 
 *Lessons Learned*
 
